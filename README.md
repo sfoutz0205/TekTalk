@@ -1,13 +1,4 @@
 # TekTalk
-## Table of Contents
-- [Description](##Description)
-- [Creation](##Created-using)
-- [Demo](##Demo)
-- [Installation](##How-to-install-the-application)
-- [Usage](##Usage-information)
-- [Contributing](##how-to-contribute)
-- [GitHub](##Github-profiles)
-
 
 ## Description
 This application is the perfect way to keep in touch, and up-to-date, with fellow graduates of the Coding Boot-camp class! Each user can create a post, as well as make comments on those posts. 
